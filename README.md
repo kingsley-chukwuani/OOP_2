@@ -14,20 +14,20 @@ This code organizes animals into categories using basic object-oriented programm
 
 `Properties:`
 
-type: The type of the animal.
+**type:** The type of the animal.
 
-coldBlooded: Indicates if the animal is cold-blooded.
+**coldBlooded:** Indicates if the animal is cold-blooded.
 
-hasBackbone: Indicates if the animal has a backbone.
+**hasBackbone:** Indicates if the animal has a backbone.
 
 `Methods:`
 
 
-getType(): Returns the type of the animal.
+**getType():** Returns the type of the animal.
 
-isColdBlooded(): Checks if the animal is cold-blooded.
+**isColdBlooded():** Checks if the animal is cold-blooded.
 
-isBackbone(): Checks if the animal has a backbone.
+**isBackbone():** Checks if the animal has a backbone.
 
 2. **ARTHROPODA, FISH, AMPHIBIAN, REPTILE, BIRD, MAMMAL**
 
